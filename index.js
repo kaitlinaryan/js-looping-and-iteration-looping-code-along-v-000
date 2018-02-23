@@ -3,6 +3,7 @@ function printBadges(names) {
 console.log(`Welcome ${names[i]}! You are employee #${i + 1}.`); }
  return names;
 }
+
 function tailsNeverFails {
 let tails = 0;
 
